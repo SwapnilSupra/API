@@ -1,0 +1,74 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Projects\\Wekeza\\Wekeza Live\\Latest Wekeza\\wekeza_backend\\src\\logs\\error\\.3d98ed324f31d89ef5feffa068ed18e1bdc9f076-audit.json",
+    "files": [
+        {
+            "date": 1691211512841,
+            "name": "C:\\Projects\\Wekeza\\Wekeza Live\\Latest Wekeza\\wekeza_backend\\src\\logs\\error\\2023-08-05.error.log",
+            "hash": "cb42f75edbeca5996a1d0b3f85677f04"
+        },
+        {
+            "date": 1691402879501,
+            "name": "C:\\Projects\\Wekeza\\Wekeza Live\\Latest Wekeza\\wekeza_backend\\src\\logs\\error\\2023-08-07.error.log",
+            "hash": "ae43e2ab5769c674f966929f509d2252"
+        },
+        {
+            "date": 1691494166683,
+            "name": "C:\\Projects\\Wekeza\\Wekeza Live\\Latest Wekeza\\wekeza_backend\\src\\logs\\error\\2023-08-08.error.log",
+            "hash": "35f61e8c8cde4d0ea260ea14a77490ec"
+        },
+        {
+            "date": 1691557383735,
+            "name": "C:\\Projects\\Wekeza\\Wekeza Live\\Latest Wekeza\\wekeza_backend\\src\\logs\\error\\2023-08-09.error.log",
+            "hash": "7be9543fb7c121e9304b294387f29319"
+        },
+        {
+            "date": 1691655337675,
+            "name": "C:\\Projects\\Wekeza\\Wekeza Live\\Latest Wekeza\\wekeza_backend\\src\\logs\\error\\2023-08-10.error.log",
+            "hash": "179598c06e5f06b12d554f6da358d197"
+        },
+        {
+            "date": 1692006045297,
+            "name": "C:\\Projects\\Wekeza\\Wekeza Live\\Latest Wekeza\\wekeza_backend\\src\\logs\\error\\2023-08-14.error.log",
+            "hash": "ea3f58aabf061d6282908ad88df6d68a"
+        },
+        {
+            "date": 1692158485264,
+            "name": "C:\\Projects\\Wekeza\\Wekeza Live\\Latest Wekeza\\wekeza_backend\\src\\logs\\error\\2023-08-16.error.log",
+            "hash": "d6faffa1869fde5c100e55a7b8f7b51e"
+        },
+        {
+            "date": 1692270859327,
+            "name": "C:\\Projects\\Wekeza\\Wekeza Live\\Latest Wekeza\\wekeza_backend\\src\\logs\\error\\2023-08-17.error.log",
+            "hash": "75e05e9a3e1fef25a071010d04619b7c"
+        },
+        {
+            "date": 1692332450694,
+            "name": "C:\\Projects\\Wekeza\\Wekeza Live\\Latest Wekeza\\wekeza_backend\\src\\logs\\error\\2023-08-18.error.log",
+            "hash": "c44e43b9b7f4ab377b6cb72b770d84ec"
+        },
+        {
+            "date": 1692622031350,
+            "name": "C:\\Projects\\Wekeza\\Wekeza Live\\Latest Wekeza\\wekeza_backend\\src\\logs\\error\\2023-08-21.error.log",
+            "hash": "916acad6b76a06da5c738fe99af4acb3"
+        },
+        {
+            "date": 1692687427391,
+            "name": "C:\\Projects\\Wekeza\\Wekeza Live\\Latest Wekeza\\wekeza_backend\\src\\logs\\error\\2023-08-22.error.log",
+            "hash": "2240062eef2757ae3f33720f3db3ecd7"
+        },
+        {
+            "date": 1693195876516,
+            "name": "C:\\Projects\\Wekeza\\Wekeza Live\\Latest Wekeza\\wekeza_backend\\src\\logs\\error\\2023-08-28.error.log",
+            "hash": "e409f011b4c3ba4d072185ce18c1491c"
+        },
+        {
+            "date": 1693281148520,
+            "name": "C:\\Projects\\Wekeza\\Wekeza Live\\Latest Wekeza\\wekeza_backend\\src\\logs\\error\\2023-08-29.error.log",
+            "hash": "27cb210962e861c89d79371ef0dc388f"
+        }
+    ]
+}
